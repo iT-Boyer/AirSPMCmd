@@ -1,5 +1,5 @@
 #!/usr/bin/swift sh
-
+import Foundation
 import SwiftFFmpeg // sunlubo/SwiftFFmpeg
 
 if CommandLine.argc < 2 {
